@@ -1,0 +1,10 @@
+body{
+    background: rgb(10, 10, 10);
+    color: white;
+}
+.centro{
+    text-align: center;
+}
+img{
+    border-radius: 30px;
+}
